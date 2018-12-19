@@ -1,2 +1,3 @@
-# search-user-from-github
-a simple repository that search users from GitHub, made in Vue.js
+# vue-example
+
+> a simple example of vue application
